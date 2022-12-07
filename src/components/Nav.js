@@ -17,7 +17,7 @@ const Nav = () => {
             fontSize: 16,
             padding: 24,
         }
-    }
+    };
 
     return (
         <div style={styles.navContainer}>
